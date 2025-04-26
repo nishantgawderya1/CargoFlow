@@ -1,0 +1,15 @@
+# .gitignore
+# Backend
+node_modules/
+.env
+logs/
+*.log
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# General
+.DS_Store
+Thumbs.db
